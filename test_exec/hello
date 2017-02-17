@@ -1,0 +1,19 @@
+sig fun.
+总用量 28
+drwxr-xr-x  2 root root 4096 2月   8 13:38 .
+drwxr-xr-x 18 root root 4096 2月   8 13:13 ..
+-rw-r--r--  1 root root    9 2月   8 13:38 hello
+-rwxr-xr-x  1 root root 9304 2月   8 13:38 test_exec
+-rw-r--r--  1 root root  893 2月   8 13:38 test_exec.c
+sig fun.
+总用量 28
+drwxr-xr-x  2 root root 4096 2月   8 13:38 .
+drwxr-xr-x 18 root root 4096 2月   8 13:13 ..
+-rw-r--r--  1 root root  284 2月   8 13:38 hello
+-rwxr-xr-x  1 root root 9304 2月   8 13:38 test_exec
+-rw-r--r--  1 root root  893 2月   8 13:38 test_exec.c
+sig fun.
+sig fun.
+exec failed:Bad address
+sig fun.
+exec failed:Bad address
